@@ -1,16 +1,21 @@
 ### 👋 Hi, I'm a Web Developer
 
 
-I'm a front-end web developer with a strong focus on building **clean**, **responsive**, and **user-friendly interfaces** using **HTML**, **CSS**, and **JavaScript**. I specialize in **React**, but I'm also eager to explore and work with other libraries and frameworks to continuously expand my skill set. I create interactive, component-based web applications that are **performance-optimized** and **SEO-friendly**.
+I'm a **Front-End Web Developer** with a strong focus on building **clean**, **responsive**, and **user-friendly interfaces** using modern web technologies.
+
+I specialize in crafting interactive, component-based applications with **React**, powered by **Vite** for fast development and optimized builds. I use **Tailwind CSS** for efficient, scalable UI styling, and work fluently with **HTML**, **CSS**, and **JavaScript** to deliver performance-driven, **SEO-friendly** solutions.
+
+I’m always eager to learn new tools, improve user experience, and bring intuitive designs to life with pixel-perfect precision.
 
 ---
 
 ### 🛠️ What I Do
 
-- Build modern front-end solutions with **React**, **HTML5**, **CSS3**, and **JavaScript**.
-- Explore and adapt to other libraries and frameworks beyond React to broaden my skill set
-- Apply **SEO best practices** to improve visibility and performance
-- Transform **UI/UX designs** from **Figma** and **Adobe** into responsive and accessible front-end experiences
+- Develop modern front-end solutions using **React**, **Vite**, **Tailwind CSS**, **HTML5**, **CSS3**, and **JavaScript**.
+- Continuously explore and adapt to other **JavaScript libraries** and **frameworks** to expand my skill set
+- Fix **front-end bugs** to ensure smooth and reliable user experiences
+- Implement **SEO best practices** to enhance performance and search engine visibility
+- Convert detailed **UI/UX designs** from tools like **Figma** and **Adobe XD** into responsive, accessible interfaces
 - Collaborate with **cross-functional teams** to create cohesive and consistent digital products
 
 ---
